@@ -1,5 +1,5 @@
-Webinar JBoss BPM Suite Starter Kit slides from Nov 2015
---------------------------------------------------------
+Webinar: 6 steps to first process slides Nov 2015
+-------------------------------------------------
 ![Cover Slide](https://raw.githubusercontent.com/eschabell/presentation-webinar-bpm-starter-kit/master/cover.png)
 
 
